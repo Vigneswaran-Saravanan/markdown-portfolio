@@ -1,9 +1,15 @@
-# markdown-portfolio
+# Markdown Portfolio
 
-This is my simple Markdown Portfolio deployed using **GitHub**
+This repository contains my personal portfolio built using Markdown.
+The portfolio is deployed using **GitHub Pages**.
 
-It includes:
+You can view it here: [View my portfolio](https://vigneswaran-saravanan.github.io/markdown-portfolio/)
 
-- Home Page
-- Project Page
-- Contact Page
+It includes the following pages:
+
+- Home
+- Projects
+- Contact
+
+## Note
+**Info:** This portfolio is under development and will be updated with projects and new features soon.
